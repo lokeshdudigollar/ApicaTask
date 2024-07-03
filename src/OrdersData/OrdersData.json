@@ -1,0 +1,144 @@
+{ 
+    "OrdersData":[
+        {
+            "customerName": "Janet Adebayo",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Home Delivery",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Samuel Johnson",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Home Delivery",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Francis Doe",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Christian Dior",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Christian Dior",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Janet Adebayo",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Home Delivery",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Samuel Johnson",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Home Delivery",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Nicolas",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Francis Doe",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        },
+        {
+            "customerName": "Nicolas Pooran",
+            "orderDate" : "12 Aug 2022-12.25 am",
+            "orderType" : "Pickup",
+            "trackingId" : "9348fjr73",
+            "orderTotal": "₦25,000.00",
+            "action" : [
+                "completed",
+                "In-progress",
+                "Pending"
+
+            ],
+            "status" : ["completed", "In-progress", "Pending"]
+        }
+    ]
+}
