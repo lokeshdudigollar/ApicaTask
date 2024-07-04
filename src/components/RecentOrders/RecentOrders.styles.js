@@ -8,7 +8,7 @@ export const RecentOrdersContainer = styled.div`
   padding: 20px;
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 80%;
   @media (max-width: 768px) {
     padding: 10px;
   }
