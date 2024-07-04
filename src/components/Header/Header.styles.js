@@ -2,8 +2,9 @@
 import styled from 'styled-components';
 
 export const HeaderContainer = styled.div`
-  margin-left: 15rem; 
- 
+  
+   width: 80%; 
+  margin-left: 250px;
   width: 80vw;
   background-color: #fff;
   display: flex;
